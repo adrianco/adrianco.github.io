@@ -4,11 +4,11 @@
 See http://www.slideshare.net/adriancockcroft for developer oriented technical decks. The more inspirational keynote talks use a few slides to support the story and are only shared as video.
 
 ### Speaking Topics
-- Innovation Culture – Applying ideas from Netflix culture and systems thinking to support innovation.
-- Speeding Up Product Development – Systematically removing friction and creating feedback in development.
-- Market Analysis – Insight into the state of the art and technology choices in leading edge ecosystems.
-- Cloud Native Computing – How to architect extremely agile, scalable and available services.
-- Software and Systems Technology – Detailed discussion of Microservices, DevOps, Containers, Serverless etc.
+- Innovation Culture – Applying ideas from Netflix culture and systems thinking
+- Speeding Up Product Development – Systematically removing friction and creating feedback
+- Market Analysis – Insight into the state of the art and leading edge technology choices
+- Cloud Native Computing – architecting extremely agile, scalable and available services
+- Software and Systems Technology – Details of Microservices, DevOps, Containers, Serverless...
 
 ### Recent Speaking Events
 - [Gophercon](http://www.slideshare.net/adriancockcroft/gophercon-2016-communicating-sequential-goroutines) - July 2016 - Denver CO, ~1000 attendees
