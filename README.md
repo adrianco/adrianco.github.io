@@ -19,9 +19,9 @@ See http://www.slideshare.net/adriancockcroft for developer oriented technical d
 - [GOTO Stockholm Conference](https://www.youtube.com/watch?v=XsmxMlYbXho) – May 2016, Sweden, ~600 attendees, opening keynote
 - Craft Conference – May 2016 – Budapest Hungary, 42 attendees, all day workshop on Microservices
 - Docker Federal Summit – April 2016 – Washington DC, ~300 attendees, opening keynote
-- Gartner Research Board – April 2016 – Houston TX, ~100 attendees, invited speaker at executive event
-- Department of Energy – January 2016 - Washington DC, ~300 attendees, distinguished speaker series
-- [YOW Conference](https://www.youtube.com/watch?v=iMJymSrKqF4) – December 2015 - Melbourne, Brisbane, Sydney AUS, ~2000 attendees, opening keynotes
+- Gartner Research Board – April 2016 – Houston TX, ~100 attendees, invited speaker
+- Department of Energy – January 2016 - Washington DC, ~300 attendees, distinguished speaker
+- [YOW Conference](https://www.youtube.com/watch?v=iMJymSrKqF4) – December 2015 - Melbourne, Brisbane, Sydney AUS, ~2000 attendees, keynotes
 - Thoughtworks Conference – Nashville TN - November 2015, ~300 attendees, invited speaker
 - [GOTO London](https://www.youtube.com/watch?v=SBp7AWelOhM) – September 2015 – London UK, ~400 attendees, opening keynote, program chair
 - Software Circus – September 2015 – Amsterdam, ~400 attendees, opening keynote
