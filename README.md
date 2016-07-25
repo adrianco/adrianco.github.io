@@ -34,6 +34,8 @@ See http://www.slideshare.net/adriancockcroft for developer oriented technical d
 - [Code Mania Conference](https://www.youtube.com/watch?v=tvJu5xSOqTw) – April 2015 – Auckland New Zealand, ~500 attendees, opening keynote
 
 ## Technical advisor positions
+- [VividCortex](http://www.vividcortex.com) [Advisor](https://www.vividcortex.com/about-us/)
+- [NGINX](http://www.nginx.com) [Technical Avisory Board](https://www.nginx.com/leadership-team/)
 
 ## Board of Directors
 - [Trifork A/S](http://www.trifork.com) [(Announcement)](http://investor.trifork.com/2016/05/11/trifork-strengthens-top-management/) 
