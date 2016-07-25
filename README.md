@@ -30,7 +30,7 @@ See http://www.slideshare.net/adriancockcroft for developer oriented technical d
 - [D&B Innovation Lecture](https://techvibes.com/2015/07/14/the-future-of-the-cloud-2015-07-14) – July 2015 – Vancouver, ~300 attendees, invited speaker
 - [USI Conference](https://www.youtube.com/watch?v=-vlOG3UIp9c) – July 2015 - Paris, ~600 attendees, invited speaker
 - [DevOps Days Conference](https://vimeo.com/album/3468700/video/131859226) – June 2015 – Amsterdam, ~300 attendees, invited speaker
-- Cisco Live Conference – June 2015 – Dan Diego CA, ~200 attendees, invited panel member
+- Cisco Live Conference – June 2015 – San Diego CA, ~200 attendees, invited panel member
 - Mirantis CIO Summit – May 2015 – Barcelona, ~30 attendees, invited speaker
 - [Code Mania Conference](https://www.youtube.com/watch?v=tvJu5xSOqTw) – April 2015 – Auckland New Zealand, ~500 attendees, opening keynote
 
