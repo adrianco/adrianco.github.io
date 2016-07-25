@@ -34,9 +34,10 @@ See http://www.slideshare.net/adriancockcroft for developer oriented technical d
 - Mirantis CIO Summit – May 2015 – Barcelona, ~30 attendees, invited speaker
 - [Code Mania Conference](https://www.youtube.com/watch?v=tvJu5xSOqTw) – April 2015 – Auckland New Zealand, ~500 attendees, opening keynote
 
-## Technical advisor positions (some additional positions haven't been announced)
+## Technical advisor positions
+This is a partial list as some additional positions haven't been announced.
 - [VividCortex](http://www.vividcortex.com) [Advisor](https://www.vividcortex.com/about-us/)
 - [NGINX](http://www.nginx.com) [Technical Advisory Board](https://www.nginx.com/leadership-team/)
 
 ## Board of Directors
-- [Trifork A/S](http://www.trifork.com) [(Announcement)](http://investor.trifork.com/2016/05/11/trifork-strengthens-top-management/) 
+- [Trifork](http://www.trifork.com) [(Announcement)](http://investor.trifork.com/2016/05/11/trifork-strengthens-top-management/) 
