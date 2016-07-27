@@ -1,6 +1,13 @@
 ## Technology and strategy consulting
 Working on various aspects of cloud migration strategy for large enterprises.
 
+## Podcasts
+- [Pre-Accident Podcast - Chaos Monkeys]()
+- [Software Engineering Daily Podcast - The History of Schedulers]()
+- [The Cloudcast dot Net]()
+- [Magpie Podcast]()
+- [A16z Podcast - Microservices]()
+
 ## Public and private speaking engagements
 See http://www.slideshare.net/adriancockcroft for developer oriented technical decks. The more inspirational keynote talks use a few slides to support the story and are only shared as video.
 
