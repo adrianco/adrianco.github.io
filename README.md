@@ -2,11 +2,11 @@
 Working on various aspects of cloud migration strategy for large enterprises.
 
 ## Podcasts
-- [Pre-Accident Podcast - Chaos Monkeys]()
-- [Software Engineering Daily Podcast - The History of Schedulers]()
-- [The Cloudcast dot Net]()
-- [Magpie Podcast]()
-- [A16z Podcast - Microservices]()
+- [Pre-Accident Podcast - Chaos Monkeys](http://preaccidentpodcast.podbean.com/e/papod-78-chaos-monkeys-adrian-cockcroft/)
+- [Software Engineering Daily Podcast - The History of Schedulers](http://softwareengineeringdaily.com/2016/07/06/schedulers-with-adrian-cockcroft/)
+- [The Cloudcast dot Net - Can Open Source Make Money?](http://www.thecloudcast.net/2016/06/the-cloudcast-256-can-open-source.html)
+- [Magpie Talkshow Podcast - Waiting for episode to be published](http://samnewman.io/podcast/)
+- [A16z Podcast - Microservices - Waiting for episode to be published](http://a16z.com/podcasts/)
 
 ## Public and private speaking engagements
 See http://www.slideshare.net/adriancockcroft for developer oriented technical decks. The more inspirational keynote talks use a few slides to support the story and are only shared as video.
