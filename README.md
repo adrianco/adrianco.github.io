@@ -19,6 +19,7 @@ See http://www.slideshare.net/adriancockcroft for developer oriented technical d
 - Software and Systems Technology – Details of Microservices, DevOps, Containers, Serverless...
 
 ### Recent Speaking Events
+- [Pivotal Spring One Platform](https://www.youtube.com/watch?v=DGK6jjamzfY) - August 2016 - Las Vegas, ~1800 attendees, closing keynote
 - [Gophercon](http://www.slideshare.net/adriancockcroft/gophercon-2016-communicating-sequential-goroutines) - July 2016 - Denver CO, ~1000 attendees
 - [Monitorama Conference](https://vimeo.com/173609948) – June 2016 - Portland OR, ~600 attendees, opening keynote
 - Executive MBA Alumni Event – June 2016 - Villanova University PA, ~80 attendees, opening keynote
