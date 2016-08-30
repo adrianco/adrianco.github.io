@@ -8,6 +8,11 @@ Working on various aspects of cloud migration strategy for large enterprises.
 - [Magpie Talkshow Podcast - Waiting for episode to be published](http://samnewman.io/podcast/)
 - [A16z Podcast - Microservices - Waiting for episode to be published](http://a16z.com/podcasts/)
 
+## Blogs
+- [Powered by Battery Ventures - Lock-In, Cloud Trends etc](https://www.battery.com/powered/author/adrianco/)
+- [Personal blog on Medium](https://medium.com/@adrianco)
+
+
 ## Public and private speaking engagements
 See http://www.slideshare.net/adriancockcroft for developer oriented technical decks. The more inspirational keynote talks use a few slides to support the story and are only shared as video.
 
