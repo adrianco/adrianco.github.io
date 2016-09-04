@@ -6,7 +6,7 @@ Working on various aspects of cloud migration strategy for large enterprises.
 - [Software Engineering Daily Podcast - The History of Schedulers](http://softwareengineeringdaily.com/2016/07/06/schedulers-with-adrian-cockcroft/)
 - [The Cloudcast dot Net - Can Open Source Make Money?](http://www.thecloudcast.net/2016/06/the-cloudcast-256-can-open-source.html)
 - [Magpie Talkshow Podcast - Waiting for episode to be published](http://samnewman.io/podcast/)
-- [A16z Podcast - Microservices - Waiting for episode to be published](http://a16z.com/podcasts/)
+- [A16z Podcast - Microservices](http://a16z.com/2016/09/01/microservices/)
 
 ## Blogs
 - [Powered by Battery Ventures - Lock-In, Cloud Trends etc](https://www.battery.com/powered/author/adrianco/)
