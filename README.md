@@ -5,8 +5,9 @@ Working on various aspects of cloud migration strategy for large enterprises.
 - [Pre-Accident Podcast - Chaos Monkeys](http://preaccidentpodcast.podbean.com/e/papod-78-chaos-monkeys-adrian-cockcroft/)
 - [Software Engineering Daily Podcast - The History of Schedulers](http://softwareengineeringdaily.com/2016/07/06/schedulers-with-adrian-cockcroft/)
 - [The Cloudcast dot Net - Can Open Source Make Money?](http://www.thecloudcast.net/2016/06/the-cloudcast-256-can-open-source.html)
-- [Magpie Talkshow Podcast - Waiting for episode to be published](http://samnewman.io/podcast/)
+- [Magpie Talkshow Podcast - Recorded December 2015](http://samnewman.io/blog/2016/10/08/magpie-talkshow-episode-22-adrian-cockcroft/)
 - [A16z Podcast - Microservices](http://a16z.com/2016/09/01/microservices/)
+- [Monitoringscape Live - Podcast series hosted by @adrianco and Dan Turchin](https://soundcloud.com/monitoringscapelive)
 
 ## Blogs
 - [Powered by Battery Ventures - Lock-In, Cloud Trends etc](https://www.battery.com/powered/author/adrianco/)
