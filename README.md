@@ -24,6 +24,13 @@ See http://www.slideshare.net/adriancockcroft for developer oriented technical d
 - Cloud Native Computing – architecting extremely agile, scalable and available services
 - Software and Systems Technology – Details of Microservices, DevOps, Containers, Serverless...
 
+### Press Coverage
+- [Werner Vogels blog on Adrian joining AWS](http://www.allthingsdistributed.com/2016/10/welcoming-adrian-cockcroft-to-tthe-aws-team.html) - October 2016
+- [Datacenter Knowlege on Adrian joining AWS](http://www.datacenterknowledge.com/archives/2016/10/25/cockcroft-the-man-behind-netflixs-move-to-aws-joins-aws/) - October 2016
+- [Hacker News Reaction to Adrian joining AWS](https://news.ycombinator.com/item?id=12779993) - October 2016
+- [Information Week - Charles Babcock](http://www.informationweek.com/cloud/infrastructure-as-a-service/what-can-it-professionals-learn-from-new-aws-vp/a/d-id/1327426) - November 2016
+- [Fortune on AWS Open Source](http://fortune.com/2016/12/01/amazon-open-source-guru/) - December 2016
+
 ### Recent Speaking Events
 - [Pivotal Spring One Platform](https://www.youtube.com/watch?v=DGK6jjamzfY) - August 2016 - Las Vegas, ~1800 attendees, closing keynote
 - [Gophercon](http://www.slideshare.net/adriancockcroft/gophercon-2016-communicating-sequential-goroutines) - July 2016 - Denver CO, ~1000 attendees
@@ -54,4 +61,5 @@ This is a partial list as some additional positions haven't been announced.
 - [NGINX](http://www.nginx.com) [Technical Advisory Board](https://www.nginx.com/leadership-team/)
 
 ## Board of Directors
-- [Trifork](http://www.trifork.com) [(Announcement)](http://investor.trifork.com/2016/05/11/trifork-strengthens-top-management/) 
+- [Trifork](http://www.trifork.com) [(Announcement)](http://investor.trifork.com/2016/05/11/trifork-strengthens-top-management/)
+- Loc8don8 - Non-profit started by winning team of the 2016 Technovation Challenge
