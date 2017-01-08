@@ -1,0 +1,8 @@
+title: Cockcroft LLC.
+description: Consulting business owned by Adrian and Laurel Cockcroft.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
