@@ -29,7 +29,7 @@ See http://www.slideshare.net/adriancockcroft for developer oriented technical d
 - [Datacenter Knowlege on Adrian joining AWS](http://www.datacenterknowledge.com/archives/2016/10/25/cockcroft-the-man-behind-netflixs-move-to-aws-joins-aws/) - October 2016
 - [Hacker News Reaction to Adrian joining AWS](https://news.ycombinator.com/item?id=12779993) - October 2016
 - [Information Week - Charles Babcock](http://www.informationweek.com/cloud/infrastructure-as-a-service/what-can-it-professionals-learn-from-new-aws-vp/a/d-id/1327426) - November 2016
-- [Fortune on AWS Open Source](http://fortune.com/2016/12/01/amazon-open-source-guru/) - December 2016
+- [Fortune on AWS Open Source - Barb Darrow](http://fortune.com/2016/12/01/amazon-open-source-guru/) - December 2016
 
 ### Recent Speaking Events
 - [Pivotal Spring One Platform](https://www.youtube.com/watch?v=DGK6jjamzfY) - August 2016 - Las Vegas, ~1800 attendees, closing keynote
