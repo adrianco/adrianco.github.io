@@ -12,6 +12,7 @@ Working on various aspects of cloud migration strategy for large enterprises.
 ## Blogs
 - [Powered by Battery Ventures - Lock-In, Cloud Trends etc](https://www.battery.com/powered/author/adrianco/)
 - [Personal blog on Medium](https://medium.com/@adrianco)
+- [Forbes Interview](https://www.forbes.com/sites/jasonbloomberg/2014/07/23/agile-enterprise-architecture-finally-crosses-the-chasm/)
 
 
 ## Public and private speaking engagements
